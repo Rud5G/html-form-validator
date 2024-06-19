@@ -1,6 +1,10 @@
-# html-form-validator
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-[![Continuous Integration](https://github.com/xtreamwayz/html-form-validator/workflows/Continuous%20Integration/badge.svg)](https://github.com/xtreamwayz/html-form-validator/actions/workflows/continuous-integration.yml)
+Thank you so much for being interested in this project! Open Source is rewarding, but it can also be exhausting. Therefor this code is provided as-is, and is currently not actively maintained. We invite you to peruse the code and even use it in your next project, provided you follow the included license!
+
+No guarantee of support for the code is provided, and there is no promise that pull requests will be reviewed or merged. It’s open source, so forking is allowed; just be sure to give credit where it’s due!
+
+---
 
 As challenged by a [tweet](https://twitter.com/Ocramius/status/680817040429592576), this library extracts validation
 rules and filters from a html form and validates submitted user data against it.
