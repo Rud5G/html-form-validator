@@ -14,7 +14,7 @@
     "ext-dom": "*",
     "ext-libxml": "*",
     "laminas/laminas-filter": "^2.13 || ^3.0",
-    "laminas/laminas-i18n": "^2.13",
+    "laminas/laminas-i18n": "^2.13 || ^3.0",
     "laminas/laminas-inputfilter": "^2.13 || ^3.0",
     "laminas/laminas-servicemanager": "^3.10 || ^4.0",
     "laminas/laminas-stdlib": "^3.6",
